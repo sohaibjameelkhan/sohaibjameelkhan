@@ -38,16 +38,6 @@
 
 <br />
 <br />
-
-
-
-
-
-
-
-
-
-
 [website]: https://techyblogdude.000webhostapp.com/Vesperr/index.html
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: www.linkedin.com/in/sohaibjameel
