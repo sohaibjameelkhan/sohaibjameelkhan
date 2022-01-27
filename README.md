@@ -6,6 +6,8 @@
 
 
 - 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently Student of Bs Computer Science 8th Semester.
+- 🌱 I’m currently Working on Fiver https://www.fiverr.com/sohaib37104?public_mode=true
 - 🔭 I’m currently working with Infusible Coders Software House as Flutter Developer
 - 👯 I’m looking to work with professional flutter developers
 - 👨‍💻 All of my projects are available at https://techyblogdude.000webhostapp.com/Vesperr/index.html
