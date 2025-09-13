@@ -1,90 +1,101 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sohaib Jameel</h1>
-<h3 align="center">Flutter Developer🌟.</h3>
+# Hi, I'm Sohaib 👋
 
-<br>
+**Senior Mobile Application Developer | Flutter & Native**
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+Islamabad, Pakistan
 
-<br>
+---
 
+## 🚀 About Me
 
-- 🌱 I’m currently learning everything 🤣
-- 🌱 I’m currently Student of Bs Computer Science 8th Semester.
-- 🌱 I’m currently Working on Fiver https://www.fiverr.com/sohaib37104?public_mode=true
-- 🔭 I’m currently working with Infusible Coders Software House as Flutter Developer
-- 👯 I’m looking to work with professional flutter developers
-- 👨‍💻 All of my projects are available at https://techyblogdude.000webhostapp.com/Vesperr/index.html
-- 📫 How to reach me sohaibjameel3@gmail.com
-- 🥅 2021 Goals: To Becomne a Professional Flutter Devloper
-- 📄 Know about my experiences www.linkedin.com/in/sohaibjameel
-- ⚡ Fun fact: I love to developp a quality apps
+Senior Mobile Application Developer with 4+ years of experience crafting high-performance iOS and Android applications using **Flutter, Dart, Kotlin, and Swift**. Passionate about creating exceptional mobile experiences—building scalable apps that serve thousands of users across Pakistan and the UAE.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sohaibjameel" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://web.facebook.com/profile.php?id=100026919488471" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/sohaibjameel666/?hl=en" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  
- 
-</p>
+- **20+ Projects Delivered**
+- **50K+ Active Users**
+- **90% 5-Star Rating**
+- **4+ Years Experience**
 
-<br>
+---
 
+## 🔥 Current Focus
 
-<br>
+Leading mobile development at **SoftLinks FZCO**, building cutting-edge Flutter applications for global markets.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
-      width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+---
 
-<br>
+## 💡 Specialization
 
+- Cross-platform mobile development with **Flutter**
+- Native iOS development with **Swift**
+- Android development with **Kotlin**
 
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages & Frameworks:** Flutter, Dart, Swift, Kotlin
+- **Backend & Cloud:** Firebase, REST APIs, AWS
+- **Payments:** Stripe
+- **Dev Tools:** GitHub, Xcode, Android Studio
+- **Design:** Figma
+
+---
+
+## 🌟 Featured Projects
+
+### ICD Happiness Club
+_Comprehensive social & e-commerce platform with real-time chat and offers management. 10,000+ active users in the first year._
+- Flutter, Firebase, Real-time Chat
+
+### Racing Eye
+_Horse racing app with live tracking and real-time updates. Enhanced engagement by 35%, 2,000+ users in 3 months._
+- Flutter, Live Tracking
+
+### Clinic On App
+_Healthcare platform for doctor booking and appointment management. Reduced booking time by 40%, 5,000+ downloads._
+- Flutter, Healthcare, Booking System
+
+---
+
+## 💼 Experience
+
+**Senior Mobile Application Developer – SoftLinks FZCO**  
+*Jan 2023 – Present*  
+- Led development of 6+ Flutter apps, reducing delivery time by 30%
+- Optimized app performance by 40% via efficient state management
+- 50,000+ active users; 100% on-time deployments
+
+**Flutter Developer – Techozon Software House**  
+*Aug 2022 – Dec 2022*  
+- Weekly code reviews reduced bugs by 40%
+- Developed 4+ responsive Flutter apps, improved retention by 25%
+
+**Flutter Developer – Infusible Coders**  
+*Jan 2022 – Jul 2022*  
+- Maintained/optimized legacy apps, increased efficiency by 35%
+- Refactored modular architecture for scalability
+
+**Flutter Developer (Freelance) – Fiverr**  
+*Feb 2020 – Dec 2023*  
+- Delivered 20+ custom solutions for international clients
+- 90% 5-star rating, improved delivery timelines by 20%
+
+---
+
+## 🎓 Education
+
+- **BS Computer Science** – Kohat University of Science & Technology Islamabad (2018–2022)
+- **Mobile App Development Certification** – Flutter & Dart Masterclass (2021)
+
+---
+
+## 📫 Contact
+
+- **Email:** sohaibjameel3@gmail.com
+- **Phone:** +92 3115244602
+- **WhatsApp:** +92 3485149386
+- **Location:** Islamabad, Punjab, Pakistan
+
+---
+
+_Ready to discuss your next mobile app project? Let’s create something amazing together!_
